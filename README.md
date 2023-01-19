@@ -13,7 +13,5 @@ GitHub stats:
   ![visitors](https://vbr.wocr.tk/badge?page_id=alanmatw.alanmatw&color=00cf00)
 </div>
 -->
-<!--
 ![visitors](https://vbr.wocr.tk/badge?page_id=alanmatw.alanmatw&color=00cf00)
--->
 
