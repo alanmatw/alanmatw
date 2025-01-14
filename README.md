@@ -1,7 +1,5 @@
 ### Hi there 👋
-- ⚡ I'm a Programmer/Web Developer
-- 🔭 I'm currently working on my personal website (React.js project)
-- 🎯 I'm skilled in React.js, Node.js, Express.js, and MongoDB
+- Just a guy who got lost in translation
 - 📫 Reach out to me on:  
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alanmatw)
 <!--
